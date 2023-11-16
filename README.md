@@ -2,6 +2,8 @@
 
   ## Description
   Just Another Text Editor is a SPA that meets the PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+  ![image](https://github.com/ChrisDeHaan/PWA-Text-Editor/assets/135929135/5dc38963-521b-4b1b-9cc1-26c67d90db0b)
+
 
   ## Table of Contents
   - [License](#License)
