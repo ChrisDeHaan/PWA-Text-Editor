@@ -6,9 +6,13 @@
 
 
   ## Table of Contents
+  - [Deployed-Link](#Deployed-Link) 
   - [License](#License)
   - [Usage](#Usage)
   - [Questions](#Questions)
+
+  ## Deployed-Link
+  - https://just-another-note-taker-cwd-fa89b7859e8d.herokuapp.com/
 
   ## License
   <a href='https://choosealicense.com/licenses/mit/' target='_blank'><img src='https://img.shields.io/badge/License-MIT-blue'></a>
